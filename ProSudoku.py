@@ -59,7 +59,7 @@ def loading():
     global minutes
     seconds = 0
     minutes = 0
-    timing()
+
     global solvedboard
     global entries
     Unsolved_board = []
